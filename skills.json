@@ -1,0 +1,51 @@
+{
+  "name": "OpenClaw Skills Collection",
+  "version": "1.0.0",
+  "skills": [
+    {
+      "id": "skill-vetter",
+      "name": "安全审计官",
+      "description": "自动扫描第三方技能代码，检测恶意程序、越权操作、隐私窃取风险"
+    },
+    {
+      "id": "session-log",
+      "name": "操作监控",
+      "description": "自动记录所有执行指令、文件操作、接口调用，生成可追溯日志"
+    },
+    {
+      "id": "tavily-search",
+      "name": "实时联网搜索",
+      "description": "接入全网实时数据，精准查询资讯、数据、政策、攻略"
+    },
+    {
+      "id": "self-improving-agent",
+      "name": "自我进化",
+      "description": "内置长期记忆模块，记录用户使用习惯、指令偏好，越用越贴合需求"
+    },
+    {
+      "id": "file-manager-pro",
+      "name": "本地文件管家",
+      "description": "支持语音/文字指令管理本地文件，批量重命名、分类归档、格式转换"
+    },
+    {
+      "id": "notion-sync",
+      "name": "Notion双向同步",
+      "description": "打通OpenClaw与Notion知识库，自动保存笔记、纪要、数据"
+    },
+    {
+      "id": "doc-summarizer",
+      "name": "文档总结器",
+      "description": "支持PDF、Word、TXT、网页链接内容解析，一键提炼核心观点"
+    },
+    {
+      "id": "code-reviewer",
+      "name": "代码审查工具",
+      "description": "自动检测代码漏洞、语法错误、性能瓶颈，提供优化方案"
+    },
+    {
+      "id": "xhs-content-generator",
+      "name": "小红书文案生成器",
+      "description": "帮助快速生成小红书爆款文案，自动生成标题、内容、标签"
+    }
+  ]
+}
