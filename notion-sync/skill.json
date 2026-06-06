@@ -1,0 +1,15 @@
+{
+  "name": "notion-sync",
+  "version": "1.0.0",
+  "description": "双向同步 - 打通OpenClaw与Notion知识库，自动保存笔记、纪要、数据",
+  "author": "OpenClaw Team",
+  "license": "MIT",
+  "type": "skill",
+  "entry": "index.js",
+  "permissions": ["network:write:notion"],
+  "capabilities": ["notion-sync", "knowledge-base", "bidirectional-sync"],
+  "config": {
+    "apiKey": "required",
+    "databaseId": "optional"
+  }
+}

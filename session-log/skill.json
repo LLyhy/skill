@@ -1,0 +1,11 @@
+{
+  "name": "session-log",
+  "version": "1.0.0",
+  "description": "操作监控 - 自动记录所有执行指令、文件操作、接口调用，生成可追溯日志",
+  "author": "OpenClaw Team",
+  "license": "MIT",
+  "type": "skill",
+  "entry": "index.js",
+  "permissions": ["file:write:logs"],
+  "capabilities": ["logging", "audit"]
+}

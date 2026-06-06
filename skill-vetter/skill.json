@@ -1,0 +1,11 @@
+{
+  "name": "skill-vetter",
+  "version": "1.0.0",
+  "description": "安全审计官 - 扫描第三方技能代码，检测恶意程序、越权操作、隐私窃取风险",
+  "author": "OpenClaw Team",
+  "license": "MIT",
+  "type": "skill",
+  "entry": "index.js",
+  "permissions": ["scan-code", "file-read"],
+  "capabilities": ["security-scan", "risk-detection"]
+}

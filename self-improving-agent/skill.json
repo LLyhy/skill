@@ -1,0 +1,11 @@
+{
+  "name": "self-improving-agent",
+  "version": "1.0.0",
+  "description": "自我进化 - 内置长期记忆模块，记录用户使用习惯、指令偏好，越用越贴合需求",
+  "author": "OpenClaw Team",
+  "license": "MIT",
+  "type": "skill",
+  "entry": "index.js",
+  "permissions": ["file:write:memory", "file:read:memory"],
+  "capabilities": ["memory", "learning", "adaptation"]
+}

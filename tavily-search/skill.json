@@ -1,0 +1,14 @@
+{
+  "name": "tavily-search",
+  "version": "1.0.0",
+  "description": "实时联网搜索 - 接入全网实时数据，精准查询资讯、数据、政策、攻略",
+  "author": "OpenClaw Team",
+  "license": "MIT",
+  "type": "skill",
+  "entry": "index.js",
+  "permissions": ["network:read"],
+  "capabilities": ["web-search", "information-retrieval"],
+  "config": {
+    "apiKey": "required"
+  }
+}

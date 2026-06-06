@@ -1,0 +1,12 @@
+{
+  "name": "file-manager-pro",
+  "version": "1.0.0",
+  "description": "本地文件管家 - 支持语音/文字指令管理本地文件，批量重命名、分类归档、格式转换",
+  "author": "OpenClaw Team",
+  "license": "MIT",
+  "type": "skill",
+  "entry": "index.js",
+  "permissions": ["file:read", "file:write"],
+  "capabilities": ["file-management", "batch-rename", "organization"],
+  "platforms": ["windows", "macos", "linux"]
+}

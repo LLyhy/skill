@@ -1,0 +1,11 @@
+{
+  "name": "doc-summarizer",
+  "version": "1.0.0",
+  "description": "文档总结 - 支持PDF、Word、TXT、网页链接内容解析，一键提炼核心观点",
+  "author": "OpenClaw Team",
+  "license": "MIT",
+  "type": "skill",
+  "entry": "index.js",
+  "permissions": ["file:read"],
+  "capabilities": ["document-analysis", "summarization", "content-extraction"]
+}

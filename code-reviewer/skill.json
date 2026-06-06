@@ -1,0 +1,12 @@
+{
+  "name": "code-reviewer",
+  "version": "1.0.0",
+  "description": "代码审查 - 自动检测代码漏洞、语法错误、性能瓶颈，提供优化方案",
+  "author": "OpenClaw Team",
+  "license": "MIT",
+  "type": "skill",
+  "entry": "index.js",
+  "permissions": ["file:read"],
+  "capabilities": ["code-analysis", "bug-detection", "optimization"],
+  "languages": ["python", "javascript", "typescript", "java", "cpp", "go"]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "xhs-content-generator",
+  "version": "1.0.0",
+  "description": "小红书文案生成器，帮助你快速生成爆款文案",
+  "author": "Cyber Worker",
+  "license": "MIT",
+  "type": "skill",
+  "entry": "index.js",
+  "dependencies": {},
+  "capabilities": ["text-generation", "content-creation"]
+}
